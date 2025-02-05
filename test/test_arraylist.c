@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <assert.h>
 
-#include "arraylist.h"
+#include "ArrayList.h"
 
 void test_arraylist_new_and_free()
 {

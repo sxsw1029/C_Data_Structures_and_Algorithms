@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "arraylist.h"
+#include "ArrayList.h"
 
 ArrayList *arraylist_new(unsigned int length)
 {

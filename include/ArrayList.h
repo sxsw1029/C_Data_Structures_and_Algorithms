@@ -1,5 +1,5 @@
 /**
- * @file arraylist.h
+ * @file ArrayList.h
  *
  * @brief 顺序表
  */
